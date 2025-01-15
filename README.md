@@ -1,4 +1,5 @@
 # Pancreatic Cancer Predictive Analytics
+Refining Pancreatic Cancer Projections: Mortality Trends and LSTM Model Predictions
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pancreatic-cancer-lstm.streamlit.app/)
 
