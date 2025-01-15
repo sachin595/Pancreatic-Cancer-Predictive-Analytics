@@ -144,7 +144,7 @@ The project includes a Streamlit-based diagnostic tool that allows users to inpu
 
 - Access the tool here: [Pancreatic Cancer Diagnostic Tool](https://pancreatic-cancer-lstm.streamlit.app/)
 - ### Example Output
-![Diagnostic Tool Screenshot](Pancreatic_result.png)
+![Diagnostic Tool Screenshot](Pancreatic_Result.png)
 
 ---
 ## License
